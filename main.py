@@ -1,4 +1,5 @@
 import math
+import deported
 
 num = 1
 for i in range(1, 11):
